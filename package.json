@@ -19,7 +19,7 @@
     "@types/uuid": "^8.3.4",
     "bn.js": "^5.2.1",
     "chai": "^4.3.6",
-    "mocha": "^10.0.0",
+    "mocha": "^10.8.2",
     "ton": "^11.18.2",
     "ton-compiler": "^1.0.0",
     "ton-contract-executor": "^0.5.2",
